@@ -1,5 +1,6 @@
 ---
-title:fmt包里的接口：Stringer
+layout: post
+title: fmt包里的接口：Stringer
 ---
 
 ## 接口 Stringer

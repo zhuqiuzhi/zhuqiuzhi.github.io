@@ -1,4 +1,7 @@
-# Go 1.7 的一个小问题
+---
+layout: post
+title: Go 1.7 的一个小问题
+---
 
   当用方法 Post请求一个URL，返回状态码为 303, Location 为 http://www.qiniu.com,Golang HTTP 客户端会自动 Get http://www.qiniu.com
  而当这个请求返回状态码 301,Location 为 https 的网站时，如 https://www.qiniu.com 时，Golang 1.7 不会再 Get 这个 Location, 但 Golang 1.8 的 HTTP 客户端会继续 Get 这个Location.    
