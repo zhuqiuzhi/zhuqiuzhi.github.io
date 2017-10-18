@@ -13,7 +13,8 @@ markdown: kramdown
 
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+#highlighter:      pygments
+highlighter:     rouge 
 
 # Gems
 plugins: [jekyll-paginate]
