@@ -3,7 +3,7 @@ title: 朱求志的博客
 email: zhuqiuzhi91 at gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   记录自己学习计算机科学的所思所得和工作过程中的学到的知识。
-baseurl: "/"
+baseurl: /
 url: "zhuqiuzhi.github.io" # the base hostname & protocol for your site
 github_username:  zhuqiuzhi
 
