@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   记录自己学习计算机科学的所思所得和工作过程中的学到的知识。
 url: "zhuqiuzhi.github.io" # the base hostname & protocol for your site
 github_username:  zhuqiuzhi
-baseurl: /
+baseurl:
 
 # Build settings
 markdown: kramdown
@@ -16,11 +16,5 @@ highlighter:     rouge
 # Gems
 plugins: [jekyll-paginate]
 paginate:         5
-
-# About/contact
-author:
-  name:              朱求志
-  url:               https://github.com/zhuqiuzhi
-  email:             zhuqiuzhi91@gmail.com 
 
 github: https://github.com/zhuqiuzhi
