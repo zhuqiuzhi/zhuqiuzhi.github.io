@@ -1,9 +1,9 @@
 # Site settings
-title: 朱求志的博客
+title: 朱求志
 email: zhuqiuzhi91 at gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Algorithms + Data Structures = Programs
-url: "zhuqiuzhi.github.io" # the base hostname & protocol for your site
+url: "https://zhuqiuzhi.github.io" # the base hostname & protocol for your site
 github_username:  zhuqiuzhi
 baseurl:
 
